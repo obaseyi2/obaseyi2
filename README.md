@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akinfenwa  
+# 👋 Hi, I'm Akinfenwa Obaseyi
 💻 **Full-Stack Developer | Building Scalable, Accessible & Intelligent Web Experiences**
 
 ---
