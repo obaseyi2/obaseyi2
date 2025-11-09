@@ -1,10 +1,7 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Hi+I'm+Akinfenwa+👋;Full-Stack+Developer;AI+%7C+Django+%7C+React+%7C+TypeScript;Building+Accessible+%26+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Akinfenwa  
+💻 **Full-Stack Developer | Building Scalable, Accessible & Intelligent Web Experiences**
 
 ---
-
 ## 👨‍💻 About Me  
 I’m a **Full-Stack Developer** passionate about crafting elegant, accessible, and scalable web experiences.  
 I love working at the intersection of **AI, design, and accessibility**, turning complex problems into intuitive digital products.  
@@ -44,7 +41,7 @@ Always exploring new ways to make the web smarter and more inclusive 🌍.
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaseyi2&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaseyi2&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
