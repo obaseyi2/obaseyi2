@@ -38,6 +38,15 @@ Always exploring new ways to make the web smarter and more inclusive 🌍.
 ---
 
 ## 📊 GitHub Insights  
+
+<div align="center">
+  <a href="https://commit-history.com/obaseyi2">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/obaseyi2?theme=dark" />
+      <img alt="obaseyi2's commit history" src="https://commit-history.com/embed/obaseyi2" />
+    </picture>
+  </a>
+</div>
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaseyi2&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
